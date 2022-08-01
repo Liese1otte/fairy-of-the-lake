@@ -1,0 +1,11 @@
+# Starship init
+
+eval "$(starship init bash)"
+
+# Aliases
+
+alias feyfetch="neofetch --backend kitty --source ~/dev/fairy/assets/feyfetch.png"
+
+# Environment variables
+
+KEYBOARD_LAYOUT=0
